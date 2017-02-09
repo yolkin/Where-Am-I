@@ -1,0 +1,6 @@
+framework module Pods_Where_am_I_ {
+  umbrella header "Pods-Where am I?-umbrella.h"
+
+  export *
+  module * { export * }
+}
